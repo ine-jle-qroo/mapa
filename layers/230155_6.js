@@ -1,0 +1,1 @@
+var json_230155_6 = {"type":"FeatureCollection","name":"230155_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"latitude":21.10131,"longitude":-87.48626,"Fecha":"24, 25, 26, 27 Y 28 DE MARZO DE 2025"},"geometry":{"type":"Point","coordinates":[-87.4862552,21.101314]}}]}
